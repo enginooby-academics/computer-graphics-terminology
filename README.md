@@ -16,6 +16,11 @@
 + 🛠 _**Mobile**_ devices, _**low-end PCs**_, platforms don't support motion vector
 
 ### Subpixel morphological anti-aliasing {SMAA}
-> _**👎 Slower, 👍 high-quality**_ AA method, doesn't require ~~_**[motion vector](#motion-vector)**_~~. 
+> _**👎 Slower, 👍 high-quality**_ AA method, doesn't require ~~_**[motion vector](#motion-vector)**_~~
 + 👎 Not compatible with ~~_**mobile devices & XR**_~~
+
+### Temporal anti-aliasing {TAA}
+> _**👎 Slowest, 👍 most high-quality**_ AA method, requires _**[motion vector](#motion-vector)**_
++ 🛠 _**Desktop, console**_
+
 
