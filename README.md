@@ -5,6 +5,12 @@
 > Capture _**per-pixel, screen-space motion**_ of an object from _**previous to current frame**_  
 + 🛠 TAA - Motion blur
 
+# Lighting
+### Illumination model
+> Technique to calculate _**reflection**_ on some objects and the _**intensity of light**_ that one should see at a _**specific point**_ on the surface of an object.
++ A.k.a: lighting model, shading model
+
+
 # Post Processing
 ### Anti-aliasing {AA}
 > Effect to help _**smoothen jagged edges & visual artifacts**_
