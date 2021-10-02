@@ -10,6 +10,10 @@
 > Technique to calculate _**reflection**_ on some objects and the _**intensity of light**_ that one should see at a _**specific point**_ on the surface of an object.
 + A.k.a: lighting model, shading model
 
+### Specular
+> Lighting component gives objects _**shine, highlights**_ when illuminated. They provide a strong visual cue for the _**shape**_ of an object and its _**location with respect to light sources**_ in the scene.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Specular_highlight.jpg" width="500" height="300">
 
 # Post Processing
 ### Anti-aliasing {AA}
